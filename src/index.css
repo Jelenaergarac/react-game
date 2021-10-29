@@ -1,0 +1,41 @@
+body{
+    background: url('./cats/catbackgif.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login {
+
+  outline: none;
+  border-radius: 15px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  color: red;
+ display: flex;
+ font-size: 500;
+ margin-right: 70px;
+ margin-bottom: 500px;
+}
+.game {
+
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+}
+
